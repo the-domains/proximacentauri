@@ -1,0 +1,14 @@
+name: ProximaCentauri
+layout_spectrum: 0.45650175557981887
+typography_spectrum: 0.7651265108324271
+color:
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  brandStrength: 0.04087519150114316
+  lightness: 0.9879822912161498
+  saturation: 0.43280535203715254
+  rhythmicContrast: 0.5939076204379011
