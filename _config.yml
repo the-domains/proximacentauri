@@ -1,6 +1,11 @@
 name: ProximaCentauri
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/784b019c-d20e-427b-a422-154906ef0e66.jpg
 layout_spectrum: 0.45650175557981887
 typography_spectrum: 0.7651265108324271
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#450003'
@@ -12,3 +17,10 @@ color:
   lightness: 0.9879822912161498
   saturation: 0.43280535203715254
   rhythmicContrast: 0.5939076204379011
+title: exoplanet
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
